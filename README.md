@@ -121,7 +121,7 @@ poetry run streamlit run src/webapp.py
 This will open the application in your default web browser. You can then configure the tickers, dates, and options directly in the web interface and run simulations or backtests.
 
 *(Below is a screenshot of the main interface)*
-<img width="950" alt="Web App Screenshot" src="src/img/webapp.png">
+<img width="950" alt="Web App Screenshot" src="src/webapp.png">
 
 ### Running the Original CLI (Optional)
 
